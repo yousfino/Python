@@ -18,6 +18,8 @@ So, once the client connects to the server, the client will have access to a use
 interface menu from which the client can view/modify customer records. The UI menu 
 looks like the following:
 
+-------------------------
+
 Python DB Menu
 
 1. Find customer
@@ -28,4 +30,10 @@ Python DB Menu
 6. Update customer phone
 7. Print report
 8. Exit
+
 Select:
+
+-------------------------
+
+Multiple built-in data structures are used, including vectors, dictionaries, 
+lists, and tuples.
