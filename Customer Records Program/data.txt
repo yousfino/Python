@@ -1,0 +1,27 @@
+John|43|123 Apple street|514 428-3452
+Katya| 26|49 Queen Mary Road|514 234-7654
+Ahmad|91|1888 Pepper Lane|
+Youssef|11|Laval|438-820-9481
+banana||banana republic|524-525-2523
+Mama|18|Laval|438-678-9898
+Johnny|15|Laval|123-456-7890
+Khalil|16|Laval|321-123-2323
+Wadeh|15|Laval|514-543-4567
+Nicolas|14|Montreal|564-523-5423
+Ammar|13|Montreal|234-525-6032
+nicole|20|beirut|342-234-5424
+Joe|9|Abu Dhabi|050-544-6463
+Yousfino|6|Abu Dhabi|055-342-4398
+yasmine|16|dubai|324-432-3542
+tala|14|jordan|323-423-2341
+Boshra|17|Dubai|050-343-2342
+Peter|23|Beirut|342-543-6534
+Yousri|22|Kiev|253-254-2532
+Amir|25|Dubai|243-542-5325
+Gogo|23|California|534-254-2456
+Theo|22|California|423-754-2938
+Wisam|26|Beirut|254-234-6353
+Andrew|23|Ottawa|324-532-2434
+Sara|18|Toronto|234-654-7546
+Leen|17|Toronto|325-643-24
+aunty dia|41|<3|315-532-5355
