@@ -1,4 +1,4 @@
 # Python
 
-Here, I share all my Python projects/assignments both 
+Here, I share some of my Python projects/assignments both 
 personal and academic
